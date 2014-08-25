@@ -1,0 +1,12 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\TetrisGame\TetrisGame\bin\Debug\TetrisGame.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\TetrisGame\TetrisGame\obj\Debug\TetrisGame.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\TetrisGame\TetrisGame\bin\Debug\TetrisGame.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\TetrisGame\TetrisGame\bin\Debug\TetrisGame.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\TetrisGame\TetrisGame\obj\Debug\TetrisGame.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\TetrisGame\TetrisGame\obj\Debug\TetrisGame.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\TetrisGame - Copy\TetrisGame\bin\Debug\TetrisGame.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\TetrisGame - Copy\TetrisGame\obj\Debug\TetrisGame.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\TetrisGame - Copy\TetrisGame\obj\Debug\TetrisGame.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\TetrisGame - Copy\TetrisGame\bin\Debug\TetrisGame.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\TetrisGame - Copy\TetrisGame\bin\Debug\TetrisGame.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\TetrisGame - Copy\TetrisGame\obj\Debug\TetrisGame.csprojResolveAssemblyReference.cache
